@@ -44,6 +44,7 @@
     "@vitest/ui": "^0.29.7",
     "autoprefixer": "^10.4.13",
     "babel-loader": "^8.3.0",
+    "chromatic": "^6.17.2",
     "concurrently": "^7.6.0",
     "postcss": "^8.4.20",
     "react": "^18.2.0",
@@ -59,5 +60,10 @@
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  }
+  },
+  "dependencies": {
+    "react-component-library": "^0.9.4"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "react-component-library@0.0.0"
 }
